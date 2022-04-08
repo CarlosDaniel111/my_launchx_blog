@@ -1,6 +1,6 @@
 ---
 title: "Mi ruta de aprendizaje en LaunchX"
-date: 2022-05-07
+date: 2022-04-07
 description: 'Te comentare mi camino por LaunchX'
 ---
 
